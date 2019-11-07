@@ -2,6 +2,11 @@
 # Created by https://www.gitignore.io/api/go,vim,linux,macos,windows,intellij+all,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=go,vim,linux,macos,windows,intellij+all,visualstudiocode
 
+
+### Custom binaries ###
+# Main binary
+main
+
 ### Go ###
 # Binaries for programs and plugins
 *.exe
